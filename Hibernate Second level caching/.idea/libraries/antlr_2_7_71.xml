@@ -1,0 +1,23 @@
+<component name="libraryTable">
+  <library name="antlr-2.7.71">
+    <CLASSES>
+      <root url="jar://$PROJECT_DIR$/src/lib/hibernate-cache/antlr-2.7.7.jar!/" />
+      <root url="jar://$PROJECT_DIR$/src/lib/hibernate-cache/jboss-transaction-api_1.2_spec-1.1.1.Final.jar!/" />
+      <root url="jar://$PROJECT_DIR$/src/lib/hibernate-cache/hibernate-commons-annotations-5.0.4.Final.jar!/" />
+      <root url="jar://$PROJECT_DIR$/src/lib/hibernate-cache/javassist-3.23.1-GA.jar!/" />
+      <root url="jar://$PROJECT_DIR$/src/lib/hibernate-cache/javax.activation-api-1.2.0.jar!/" />
+      <root url="jar://$PROJECT_DIR$/src/lib/hibernate-cache/slf4j-api-1.7.7.jar!/" />
+      <root url="jar://$PROJECT_DIR$/src/lib/hibernate-cache/jandex-2.0.5.Final.jar!/" />
+      <root url="jar://$PROJECT_DIR$/src/lib/hibernate-cache/hibernate-core-5.3.6.Final.jar!/" />
+      <root url="jar://$PROJECT_DIR$/src/lib/hibernate-cache/ehcache-2.10.3.jar!/" />
+      <root url="jar://$PROJECT_DIR$/src/lib/hibernate-cache/dom4j-1.6.1.jar!/" />
+      <root url="jar://$PROJECT_DIR$/src/lib/hibernate-cache/hibernate-ehcache-5.3.6.Final.jar!/" />
+      <root url="jar://$PROJECT_DIR$/src/lib/hibernate-cache/byte-buddy-1.8.17.jar!/" />
+      <root url="jar://$PROJECT_DIR$/src/lib/hibernate-cache/javax.persistence-api-2.2.jar!/" />
+      <root url="jar://$PROJECT_DIR$/src/lib/hibernate-cache/jboss-logging-3.3.2.Final.jar!/" />
+      <root url="jar://$PROJECT_DIR$/src/lib/hibernate-cache/classmate-1.3.4.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES />
+  </library>
+</component>

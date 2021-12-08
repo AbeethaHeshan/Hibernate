@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/Hibernate_Relations/Many To Many With a new Entity/Many To Many With a new Entity.iml" filepath="$PROJECT_DIR$/Hibernate_Relations/Many To Many With a new Entity/Many To Many With a new Entity.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Hibernate_Relations/Many to Many/Many to Many.iml" filepath="$PROJECT_DIR$/Hibernate_Relations/Many to Many/Many to Many.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/ORM RelationShips.iml" filepath="$PROJECT_DIR$/.idea/ORM RelationShips.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Hibernate_Relations/One to Many/One to Many.iml" filepath="$PROJECT_DIR$/Hibernate_Relations/One to Many/One to Many.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Hibernate_Relations/One to One/One to One.iml" filepath="$PROJECT_DIR$/Hibernate_Relations/One to One/One to One.iml" />
+    </modules>
+  </component>
+</project>

@@ -6,12 +6,9 @@ import java.io.Serializable;
 @Entity
 public class Subject_Lecturer implements Serializable {
 
-
-
     @Id
     @GeneratedValue
     private Long  id;
-
 
     @ManyToOne(cascade = CascadeType.ALL)
     @JoinColumn(name = "lec_Id")
